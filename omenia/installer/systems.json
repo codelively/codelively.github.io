@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Backup System",
+    "source": "https://codelively.github.io/omenia/backupsystem/",
+    "version": 1.0
+  },
+  {
+    "name": "Update System",
+    "source": "https://codelively.github.io/omenia/updatesystem",
+    "version": 1.0
+  },
+  {
+    "name": "Cloud System",
+    "source": "https://codelively.github.io/omenia/cloudsystem",
+    "version": 1.0
+  }
+]
