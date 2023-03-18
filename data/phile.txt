@@ -1,0 +1,1 @@
+echo "Erfolgreich" >> hi.txt
