@@ -1,1 +1,1 @@
-echo "Erfolgreich" >> hi.txt
+echo "Erfolgreich" >> nein.txt
