@@ -1,1 +1,1 @@
-echo "Erfolgreich" >> ja.txt
+print("Erfolgreich eingespielt")
